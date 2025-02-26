@@ -1,0 +1,1 @@
+const ranNum = parseInt(Math.random()*100 + 1);

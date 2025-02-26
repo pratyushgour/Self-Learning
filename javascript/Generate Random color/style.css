@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    width: 70px;
+    /* background-color: rgb(214, 73, 73); */
+    border: 2px solid black;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    
+}
